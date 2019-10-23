@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TrafficLightTraining</folder>
+	<filename>IMG_1.jpg</filename>
+	<path>G:\Downloads\treinamento\TrafficLightTraining\IMG_20191011_222511.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1378</xmin>
+			<ymin>1276</ymin>
+			<xmax>1932</xmax>
+			<ymax>2584</ymax>
+		</bndbox>
+	</object>
+</annotation>
